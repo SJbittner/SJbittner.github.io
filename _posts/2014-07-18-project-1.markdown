@@ -4,8 +4,8 @@ subtitle: Detection of Human-over-Board in Maritime Environment
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Elias.jpg
-thumbnail: Elias.jpg
+img: HumanOverBoard.png
+thumbnail: HumanOverBoard.png
 alt: image-alt
 project-date: April 2022
 client: University of Twente

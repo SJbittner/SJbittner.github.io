@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: CV_2.png
-thumbnail: escape-thumbnail.png
+thumbnail: CV_2.png
 alt: image-alt
 project-date: July 2022
 client: Start Bootstrap
