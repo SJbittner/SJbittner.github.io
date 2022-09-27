@@ -4,8 +4,8 @@ subtitle: A 3-days competition for adolescents with the game engine Unity
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: GameJam.jpg
-thumbnail: GameJam.jpg
+img: GameJam.png
+thumbnail: GameJam.png
 alt: image-alt
 project-date: August 2022
 client: JuniorUni Wuppertal
