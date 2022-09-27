@@ -1,19 +1,17 @@
-url: https://fwollatz.github.io
-baseurl: 
+url: https://sjbittner.github.io
+baseurl:
 
 # Site settings
-title: Frederik Wollatz
-email: frederik.wollatz@web.de
+title: Sara-Jane Bittner
+email: sara-jane-Bittner@web.de
 description: "I am a student of Cognitive Science, always motivated to search and find innovative concepts to work on!"
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: linkedin.com/in/frederik-wollatz
+    url: linkedin.com/in/sara-jane-bittner/
   - title: github
-    url: http://github.com/fwollatz
-
+    url: http://github.com/SJbittner
 
 # Postal address (add as many lines as necessary)
 address:
