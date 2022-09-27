@@ -1,5 +1,5 @@
 ---
-title: JuniorUni - Gamejam
+title: JuniorUni - Gamejam 2022
 subtitle: I organized a game-developement hackathon for teenagers!
 layout: default
 modal-id: 4
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: August 2022
 client: JuniorUni Wuppertal
 category: Project Management, Event Planning
-description: Together with a team of 5 other people we organized a Gamejam for 35 teenagers! 
+description: A 3-days competition for adolescents with the game engine Unity
 ---

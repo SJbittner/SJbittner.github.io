@@ -1,15 +1,14 @@
 ---
-title: Runner - Advanced Unity
-subtitle: A physics based parcour-game
+title: Social Relationship Recognition
+subtitle: Recognition of Social Relationships based on Skeleton-Data
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: July 2022
 client: Start Bootstrap
-category: Web Development
+category: Computer-Vision
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
 ---
