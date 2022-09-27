@@ -4,11 +4,11 @@ subtitle: Prediction of Overtime for Operation Room Planning
 layout: default
 modal-id: 8
 date: 2014-07-18
-img: Elias.jpg
-thumbnail: Elias.jpg
+img: innovation.png
+thumbnail: innovation.png
 alt: image-alt
 project-date: April 2022
 client: University of Twente
 category: Data Science
-description: Here I lead a team of up to 24 students to create a functional chatbot! A special challenge to this project was, that the whole team got exchanged when I joined and we had to understand and extend the  project, without knowing about the old code.
+description: Here Photo by <a href="https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Johannes Plenio</a> on <a href="https://unsplash.com/s/photos/innovation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
