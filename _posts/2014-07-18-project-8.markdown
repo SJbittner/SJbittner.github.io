@@ -1,14 +1,14 @@
 ---
 title: Innovation Scan
-subtitle: Prediction of Overtime for Operation Room Planning
+subtitle: Analysis & Recommendations for Websensa
 layout: default
 modal-id: 8
 date: 2014-07-18
 img: innovation.png
 thumbnail: innovation.png
 alt: image-alt
-project-date: April 2022
+project-date: October 2021
 client: University of Twente
-category: Data Science
-description: Here Photo by <a href="https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Johannes Plenio</a> on <a href="https://unsplash.com/s/photos/innovation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+category: Innovation Management, Entrepreneurship
+description: Throughout the course "Innovation Management" my team collaborated with the polish company <a href="https://websensa.com/en/home/">Websensa</a>. The company offers solutions for examples in the areas of AI, Data Science and Natural Language Processing. With an <li> Innovation Scan Questionnaire</li> we gathered data in five pillars of innovation about the company through interviews. Further, we analyzed the data and derived presentation. Finally, we presented our findings in front of the company and lecturers.
 ---

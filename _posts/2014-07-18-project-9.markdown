@@ -7,7 +7,7 @@ date: 2014-07-18
 img: summerSchool.png
 thumbnail: summerSchool.png
 alt: image-alt
-project-date: April 2022
+project-date: July 2022
 client: Politecnico Di Milano
 category: User Research, Entrepreneurship, StartUp
 description: Here I lead a team of up to 24 students to create a functional chatbot! A special challenge to this project was, that the whole team got exchanged when I joined and we had to understand and extend the  project, without knowing about the old code.
