@@ -10,22 +10,5 @@ alt: image-alt
 project-date: April 2014
 field: Start Bootstrap
 category: Web Development, UX, Conept Development, Research
-description: You can check out the FIGMA prototype here <https://www.figma.com/proto/ROXkXNFGmWLvuRTmuQLy91/CMM%3APrototype?node-id=2%3A3&starting-point-node-id=2%3A3> 
-The application Redustic was conceptualized during the first week challenge of the lecture Introduction to Interaction Technology of the University of Twente. It aims to be a tool that can be used daily to track and – in long term – reduce the users plastic consumption. With this it addresses the 14th of in total 17 goals for a sustainable development that the United Nations declared in 2015.   The members of the United Nations plan to meet these goals till 2030. Further, goal 14 includes
-“Save and sustainably use the oceans, sea and marine resources for sustainable development.”
-The application Redustic is orientated towards the first target and aims to reduce and stop marine pollution in regards of plastic waste. 
-Plastic waste contains a critical risk for the ocean’s environment as over eight million tons of plastic are thrown in the water each year. Moreover, it heavily impacts the living environment of marine animals. Thus, studies have found that approximately 50% of turtles and 40% of seabirds have ingested plastic waste before. These incidents have immense negative effects on the digestive and immune systems of animals and the surrounding ecosystem.
-The application Redustic aims to have two main elements to address the problem
-1.	Tracking function for plastic beverages
-2.	Recommendations for alternative products
-
-This research collected data about the needs and opinions of users that are part of the target population. The research highlighted what functions and requirements are needed, so that Redustic is fitted to the specific user group. Further, these requirements were transferred in a design. The second part of this research should determine the information hierarchy and test the prototype that is built on this basis.
-
-The following research methods were used 
-1.	Diary Study
-2.	Focus Group
-3.	Card Sort
-4.	Usability Study
-
-
+description: You can check out the FIGMA prototype here <https://www.figma.com/proto/ROXkXNFGmWLvuRTmuQLy91/CMM%3APrototype?node-id=2%3A3&starting-point-node-id=2%3A3> The application Redustic was conceptualized during the first week challenge of the lecture Introduction to Interaction Technology of the University of Twente. It aims to be a tool that can be used daily to track and – in long term – reduce the users plastic consumption. With this it addresses the 14th of in total 17 goals for a sustainable development that the United Nations declared in 2015.   The members of the United Nations plan to meet these goals till 2030. Further, goal 14 includes, “Save and sustainably use the oceans, sea and marine resources for sustainable development.” The application Redustic is orientated towards the first target and aims to reduce and stop marine pollution in regards of plastic waste. Plastic waste contains a critical risk for the ocean’s environment as over eight million tons of plastic are thrown in the water each year. Moreover, it heavily impacts the living environment of marine animals. Thus, studies have found that approximately 50% of turtles and 40% of seabirds have ingested plastic waste before. These incidents have immense negative effects on the digestive and immune systems of animals and the surrounding ecosystem.The application Redustic aims to have two main elements to address the problem, 1.	Tracking function for plastic beverages 2.	Recommendations for alternative products This research collected data about the needs and opinions of users that are part of the target population. The research highlighted what functions and requirements are needed, so that Redustic is fitted to the specific user group. Further, these requirements were transferred in a design. The second part of this research should determine the information hierarchy and test the prototype that is built on this basis. The following research methods were used, 1. Diary Study 2.Focus Group 3.	Card Sort 4.	Usability Study
 ---
