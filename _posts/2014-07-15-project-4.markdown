@@ -1,6 +1,6 @@
 ---
 title: JuniorUni - Gamejam 2022
-subtitle: I organized a game-developement hackathon for teenagers!
+subtitle: A 3-days competition for adolescents with the game engine Unity
 layout: default
 modal-id: 4
 date: 2014-07-15
