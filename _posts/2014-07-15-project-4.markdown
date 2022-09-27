@@ -4,8 +4,8 @@ subtitle: I organized a game-developement hackathon for teenagers!
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: GameJam.png
-thumbnail: treehouse-thumbnail.png
+img: GameJam.jpg
+thumbnail: GameJam.jpg
 alt: image-alt
 project-date: August 2022
 client: JuniorUni Wuppertal
