@@ -1,6 +1,6 @@
 ---
-title: Botfire
-subtitle: A study on Human-Robot-Interaction in high-risk situation
+title: Redustic
+subtitle: An Application for the Reduction of Personal Plastic Waste
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -9,7 +9,8 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: Web Development, UX, Conept Development, Research
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
 ---
+
+You can check out the FIGMA prototype here: <https://www.figma.com/proto/ROXkXNFGmWLvuRTmuQLy91/CMM%3APrototype?node-id=2%3A3&starting-point-node-id=2%3A3>
