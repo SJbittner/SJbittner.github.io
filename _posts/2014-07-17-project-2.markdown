@@ -1,5 +1,5 @@
 ---
-title: Social Relationship Recognition
+title: Relationship Recognition
 subtitle: Recognition of Social Relationships based on Skeleton-Data
 layout: default
 modal-id: 2
