@@ -10,5 +10,5 @@ alt: image-alt
 project-date: October 2021
 client: University of Twente
 category: Innovation Management, Entrepreneurship
-description: Throughout the course "Innovation Management" my team collaborated with the polish company <a href="https://websensa.com/en/home/">Websensa</a>. The company offers solutions for examples in the areas of AI, Data Science and Natural Language Processing. With an <li> Innovation Scan Questionnaire</li> we gathered data in five pillars of innovation about the company through interviews. Further, we analyzed the data and derived presentation. Finally, we presented our findings in front of the company and lecturers.
+description: Throughout the course "Innovation Management" my team collaborated with the polish company <a href="https://websensa.com/en/home/">Websensa</a>. The company offers solutions for examples in the areas of AI, Data Science and Natural Language Processing. With an <i> Innovation Scan Questionnaire</i> we gathered data in five pillars of innovation about the company through interviews. Further, we analyzed the data and derived presentation. Finally, we presented our findings in front of the company and lecturers.
 ---
