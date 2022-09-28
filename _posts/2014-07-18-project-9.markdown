@@ -1,6 +1,6 @@
 ---
 title: Summer School
-subtitle: Digital Interactive Smart Spaces
+subtitle: Ventures in Digital Interactive Smart Spaces
 layout: default
 modal-id: 9
 date: 2014-07-18
